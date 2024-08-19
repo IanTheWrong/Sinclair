@@ -1,0 +1,2 @@
+# Sinclair
+CLI Password Manager
