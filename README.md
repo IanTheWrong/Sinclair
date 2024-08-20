@@ -34,7 +34,7 @@ Return to the original format. I will eventually change this to another setup.
 resets your password, will ask for your username in order to reset.
 
 **set:**
-adds a new login credential. Origin is what the username password is for, i.e Discord, Reddit, Github
+adds a new login credential. Origin is what the username password is for, i.e Discord, Reddit, Github, e621
 
 **get:**
 gets one of your already saved credentials, based on the origin
